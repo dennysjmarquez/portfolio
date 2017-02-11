@@ -25,7 +25,7 @@
  
  
  
-# *Método para seleccionar los Plugins de CKeditor que aparecerán en las sesiones o sesión* ##
+## *Método para seleccionar los Plugins de CKeditor que aparecerán en las sesiones o sesión* ##
 
 **Ejemplo:** *Si es una sesión de imagen solo se dejara el Plugins de imagen*
 
