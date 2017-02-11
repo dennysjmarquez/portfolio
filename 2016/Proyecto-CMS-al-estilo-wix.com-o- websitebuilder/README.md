@@ -9,6 +9,8 @@
 
 ----------
 
+> # Diseño #1 #
+
 ![](https://raw.githubusercontent.com/dennysjmarquez/portfolio/master/2016/Proyecto-CMS-al-estilo-wix.com-o-%20websitebuilder/proyecto-cms-documento1.jpg)
 
 
@@ -16,7 +18,13 @@
 
 
 ![](https://raw.githubusercontent.com/dennysjmarquez/portfolio/master/2016/Proyecto-CMS-al-estilo-wix.com-o-%20websitebuilder/proyecto-cms-documento3.jpg)
+ 
+ 
+ 
 
+----------
+
+> # Diseño #2 #
 
 ![](https://raw.githubusercontent.com/dennysjmarquez/portfolio/master/2016/Proyecto-CMS-al-estilo-wix.com-o-%20websitebuilder/ejemplo%20menu%20y%20dialogo.png)
 
