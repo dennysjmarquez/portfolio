@@ -38,8 +38,6 @@
 # Sitio Web de la empresa Faegovensa c.a #
 *Empresa que se dedica a la fabricación e importación de Regatones*
 
-![](https://raw.githubusercontent.com/dennysjmarquez/portfolio/master/2011/faegovensa-web.png)
-
 ----------
 
 **Descripcion**:
@@ -47,24 +45,27 @@
       Sitio Web construido con Joomla 1.5 y el  complemento Virtuemart para la tienda online como catalogo
 
 
+
+![](https://raw.githubusercontent.com/dennysjmarquez/portfolio/master/2011/faegovensa-web.png)
+
 # Sitio Web de Hrauseo y Asociados Consultores c.a #
 *Empresa que se dedica a dictar cursos y asesoria  de seguridad industrial*
-
-![](https://raw.githubusercontent.com/dennysjmarquez/portfolio/master/2011/hrauseoconsultores-web.png)
 
 ----------
 
 **Descripcion**:
 
       Sitio Web construido con Joomla 1.5
+
+![](https://raw.githubusercontent.com/dennysjmarquez/portfolio/master/2011/hrauseoconsultores-web.png)
 
 # Sitio Web de La casita de azúcar c.a #
 *Empresa que se dedica a la distribución, fabricación de dulces y tortas*
 
-![](https://raw.githubusercontent.com/dennysjmarquez/portfolio/master/2011/lacasitadeazucar-web.png)
-
 ----------
 
 **Descripcion**:
 
       Sitio Web construido con Joomla 1.5
+
+![](https://raw.githubusercontent.com/dennysjmarquez/portfolio/master/2011/lacasitadeazucar-web.png)
