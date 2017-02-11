@@ -26,6 +26,9 @@
 
 > # Diseño #2 #
 
+
+## *Menu izquierdo, dialogos, y diseño deneral de las paginas cargadas en los popup * ##
+
 ![](https://raw.githubusercontent.com/dennysjmarquez/portfolio/master/2016/Proyecto-CMS-al-estilo-wix.com-o-%20websitebuilder/ejemplo%20menu%20y%20dialogo.png)
 
 
