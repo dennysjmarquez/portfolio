@@ -22,3 +22,11 @@
 
 
 ![](https://raw.githubusercontent.com/dennysjmarquez/portfolio/master/2016/Proyecto-CMS-al-estilo-wix.com-o-%20websitebuilder/Disen%CC%83o_ajustes2.png)
+ 
+ 
+ 
+# *Método para seleccionar los Plugins de CKeditor que aparecerán en las sesiones o sesión* ##
+
+**Ejemplo:** *Si es una sesión de imagen solo se dejara el Plugins de imagen*
+
+![](https://raw.githubusercontent.com/dennysjmarquez/portfolio/master/2016/Proyecto-CMS-al-estilo-wix.com-o-%20websitebuilder/Plugins_CK_editor_-_por_seccio%CC%81n.png)
