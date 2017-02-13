@@ -44,3 +44,17 @@
       **18.** Controles:  Arrows, Bullets, Circle Timer, Line Timer, Scrollbar, Slide Info, Thumblist
 
       **19.** Plantillas: Custom Template, Slider with Bottom Aligned Thumbs, Partial View Slider V1
+
+
+----------
+
+![](https://raw.githubusercontent.com/dennysjmarquez/portfolio/master/2017/proyecto-CKeditor-creacion-Plugin-Master-Slider-JQuery-para-el-Proyecto-CMS-al-estilo-de-wix.com/Print%20screen%201%2C%20Proyecto%20CKeditor%20creaci%C3%B3n%20Plugin%20Master%20Slider%20JQuery%20para%20el%20Proyecto%20CMS%20al%20estilo%20de%20Wix.com.jpg)
+
+![](https://raw.githubusercontent.com/dennysjmarquez/portfolio/master/2017/proyecto-CKeditor-creacion-Plugin-Master-Slider-JQuery-para-el-Proyecto-CMS-al-estilo-de-wix.com/Print%20screen%202%2C%20Proyecto%20CKeditor%20creaci%C3%B3n%20Plugin%20Master%20Slider%20JQuery%20para%20el%20Proyecto%20CMS%20al%20estilo%20de%20Wix.com.jpg)
+
+![](https://raw.githubusercontent.com/dennysjmarquez/portfolio/master/2017/proyecto-CKeditor-creacion-Plugin-Master-Slider-JQuery-para-el-Proyecto-CMS-al-estilo-de-wix.com/Print%20screen%203%2C%20Proyecto%20CKeditor%20creaci%C3%B3n%20Plugin%20Master%20Slider%20JQuery%20para%20el%20Proyecto%20CMS%20al%20estilo%20de%20Wix.com.jpg)
+
+![](https://raw.githubusercontent.com/dennysjmarquez/portfolio/master/2017/proyecto-CKeditor-creacion-Plugin-Master-Slider-JQuery-para-el-Proyecto-CMS-al-estilo-de-wix.com/Print%20screen%204%2C%20Proyecto%20CKeditor%20creaci%C3%B3n%20Plugin%20Master%20Slider%20JQuery%20para%20el%20Proyecto%20CMS%20al%20estilo%20de%20Wix.com.jpg)
+
+![](https://raw.githubusercontent.com/dennysjmarquez/portfolio/master/2017/proyecto-CKeditor-creacion-Plugin-Master-Slider-JQuery-para-el-Proyecto-CMS-al-estilo-de-wix.com/Print%20screen%205%2C%20Proyecto%20CKeditor%20creaci%C3%B3n%20Plugin%20Master%20Slider%20JQuery%20para%20el%20Proyecto%20CMS%20al%20estilo%20de%20Wix.com.jpg)
+
