@@ -11,6 +11,9 @@
 
       **composer**, **php 5**, **JavaScript**, **JQuery**, **doctrine/dbal**, **CSS3**, **HTML5**
 
+## Propuesta del Proyecto PDF ##
+[https://github.com/dennysjmarquez/portfolio/tree/master/2016/uneweb-proyecto-final-diplomado-programacion-web/uneweb-propuesta-del-proyecto-final.pdf](https://github.com/dennysjmarquez/portfolio/tree/master/2016/uneweb-proyecto-final-diplomado-programacion-web/uneweb-propuesta-del-proyecto-final.pdf "Propuesta del Proyecto PDF")
+
 
 ## Codigo fuente: 
 <https://github.com/dennysjmarquez/scorpioncms>
