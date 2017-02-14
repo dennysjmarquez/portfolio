@@ -45,6 +45,7 @@
 
       **19.** Plantillas: Custom Template, Slider with Bottom Aligned Thumbs, Partial View Slider V1
 
+  **>>>**  [**Codigo fuente aqui**](https://github.com/dennysjmarquez/SOURCE-CODE-plugin-ckeditor-msliderJquery)  **<<<**  
 
 ----------
 
