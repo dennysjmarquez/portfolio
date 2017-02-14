@@ -3,7 +3,7 @@
 **Las actualizaciones que les hice a este Plugins fueron:**
 
 
-      La posibilidad de subir una imagen al servidor con ckfinder y usarla en el link, o usar una ya cargada.
+      La posibilidad de subir una imagen al servidor con filebrowser y ckfinder y usar la URL en el link, o usar la URL de una ya cargada.
 
       Le agregue la posibilidad de abrir en una ventana emergente o popup para mostrar contenido extra ejemplo en formulario de contacto una slider etc.
 
