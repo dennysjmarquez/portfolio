@@ -4,6 +4,7 @@
 
       Una de las características más emblemáticas es la posibilidad de ir atrás y adelante en el browser sin que se pierda lo ya cargado en la navegación infinita teniendo así la posibilidad de seguir cargando nuevas páginas, en la navegación infinita al igual que lo hace Deviantart, tiene zoon las fotos , las páginas de los comentarios se cargan solo una vez, cuando se hace click en alguna página de los comentarios por ejemplo pag10 si ya la ha cargado simplemente muestra su contenido sin volver hacer petición al servidor o a la DB esto es muy importante para el ancho debanda al igual que la navegación infinita no la vuelve a cargar si se va a un link de contenido y se regresa.
 
+  **>>>**  [**Codigo fuente aqui**](https://github.com/dennysjmarquez/SOURCE-CODE-theme-wordpress-cecichaparroart-deviantart-style)  **<<<**  
 
 ----------
 
