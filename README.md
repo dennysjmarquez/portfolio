@@ -1,5 +1,3 @@
-<meta property="og:image" content="https://media.licdn.com/media/AAEAAQAAAAAAAAxzAAAAJGM4OTA1ZTE0LTJiNmQtNGNiMS04ZTViLTAzYWI5MGEwNDhiYQ.jpg" />
-
 Mis saludos Bienvenido(a)(s)
 
 Disponible para contratación Freelance o contrato laboral / contactarme directamente a dennysjmarquez@gmail.com
