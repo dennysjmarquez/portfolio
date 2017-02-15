@@ -20,7 +20,9 @@
 ![](https://raw.githubusercontent.com/dennysjmarquez/portfolio/master/2011/spirate_taringa_sql.jpg)
 
 
-**Programita que  descargaba POST masivamente de Taringa.net en la versión v4**
+**Programita que descargaba POST masivamente de Taringa.net en la versión v4**
+  
+  **>>>**  [**Codigo fuente aqui**](https://github.com/dennysjmarquez/SOURCE-CODE-descargar-post-masivamente-de-taringa-visual-basic-6)  **<<<**  
 
 ![](https://raw.githubusercontent.com/dennysjmarquez/portfolio/master/2011/taringa_post_downloads_msivo.jpg)
 
