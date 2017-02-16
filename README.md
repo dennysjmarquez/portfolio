@@ -1,7 +1,19 @@
+<style>
+
+	#user-content-im1 {
+	
+	    margin: 0px auto;
+		display: table;
+	
+	}
+
+</style>
+
+
 Mis saludos Bienvenido(a)(s)
-<center>
+
 <img id="im1" src="https://dennysjmarquez.github.io/portfolio/den2foto.jpg"/>
-</center>
+
 
 Disponible para contratación Freelance o contrato laboral / contactarme directamente a dennysjmarquez@gmail.com
 
