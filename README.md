@@ -1,16 +1,4 @@
-<style>
-
-	#user-content-im1 {
-	
-	    margin: 0px auto;
-		display: table;
-	
-	}
-
-</style>
-
-
-Mis saludos Bienvenido(a)(s)
+Mis saludos, Bienvenido(a)(s)
 
 <img id="im1" src="https://dennysjmarquez.github.io/portfolio/den2foto.jpg"/>
 
