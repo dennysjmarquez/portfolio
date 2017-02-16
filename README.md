@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/dennysjmarquez/portfolio/master/den2foto.jpg)
+* <a href="https://www.youtube.com/watch?v=U4ja6HeBm6s"><img src="2015/jsModules.png"/></a>[Screencast: JavaScript Modules & Build Tools](https://www.youtube.com/watch?v=U4ja6HeBm6s) - A brief tour of the ocean of tools around JavaScript Modules. Covers Browser Globals, Namespaces, UglifyJS, CommonJS, AMD, ES6, Browserify, Webpack, RequireJS, JSPM, Esperanto, Rollup, Gulp, Babel, Traceur, and Make.
 
 Mis saludos Bienvenido(a)(s)
 
