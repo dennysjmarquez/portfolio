@@ -13,7 +13,7 @@ Disponible para contratación Freelance o contrato laboral / contactarme directa
 [https://github.com/dennysjmarquez/portfolio/tree/master/2011](https://github.com/dennysjmarquez/portfolio/tree/master/2011)
 
 ## Proyectos del 2014
-[https://github.com/dennysjmarquez/portfolio/tree/master/2014/deviantart-theme (https://github.com/dennysjmarquez/portfolio/tree/master/2014/deviantart-theme)
+[https://github.com/dennysjmarquez/portfolio/tree/master/2014/deviantart-theme(https://github.com/dennysjmarquez/portfolio/tree/master/2014/deviantart-theme)
 
 ## Proyectos del 2016
 [https://github.com/dennysjmarquez/portfolio/tree/master/2016](https://github.com/dennysjmarquez/portfolio/tree/master/2016)
