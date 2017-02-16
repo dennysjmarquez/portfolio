@@ -1,5 +1,7 @@
 Mis saludos Bienvenido(a)(s)
 
+<img src="https://dennysjmarquez.github.io/portfolio/den2foto.jpg"/>
+
 Disponible para contratación Freelance o contrato laboral / contactarme directamente a dennysjmarquez@gmail.com
 
  * [Cover Letter](https://dennysjmarquez.github.io/portfolio/Cover-Letter.pdf)
