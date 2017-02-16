@@ -9,4 +9,5 @@ Disponible para contratación Freelance o contrato laboral / contactarme directa
  * [LinkedIn](https://www.linkedin.com/in/dennysjmarquez/)
  * [Twitter](https://twitter.com/infocodes)
 
-##Proyectos del 2011 [https://github.com/dennysjmarquez/portfolio/tree/master/2011(https://github.com/dennysjmarquez/portfolio/tree/master/2011)
+##Proyectos del 2011
+[https://github.com/dennysjmarquez/portfolio/tree/master/2011](https://github.com/dennysjmarquez/portfolio/tree/master/2011)
