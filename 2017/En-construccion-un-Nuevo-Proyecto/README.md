@@ -3,7 +3,6 @@
 Project description:
       
 Si quieres saber cuál es mi actual Proyecto 
-
 # 
  
  **>>> COMUNICATE CONMIGO <<<**
