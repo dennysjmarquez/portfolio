@@ -1,4 +1,4 @@
-# Proyecto CKeditor actualización Plugin simplebutton  para el Proyecto CMS al estilo de Wix.com #
+# CKeditor actualización del Plugin simplebutton #
 
 **Las actualizaciones que les hice a este Plugins fueron:**
 
