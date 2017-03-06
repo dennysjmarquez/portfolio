@@ -7,9 +7,9 @@
  
       **Este cms es 100% nuevo** ***construido desde casi desde cero***, las categorías se maneja con la técnica **Nested Sets**, misma técnica que se usara para los menús del sitio *ejemplo:* (**inicio** | **productos** | **contacto**) y se agregaran parecido como lo hace Wordpress.
 
-      Las tecnologías utilizadas en este proyecto son:
+      Las tecnologías, técnicas y librerías utilizadas en este proyecto son:
 
-      **composer**, **php 5**, **JavaScript**, **JQuery**, **doctrine/dbal**, **CSS3**, **HTML5**
+      **MVC**, **composer**, **php 5**, **JavaScript**, **JQuery**, **doctrine/dbal**, **CSS3**, **HTML5**
 
 ## Propuesta del Proyecto PDF ##
 [https://github.com/dennysjmarquez/portfolio/tree/master/2016/uneweb-proyecto-final-diplomado-programacion-web/uneweb-propuesta-del-proyecto-final.pdf](https://github.com/dennysjmarquez/portfolio/tree/master/2016/uneweb-proyecto-final-diplomado-programacion-web/uneweb-propuesta-del-proyecto-final.pdf "Propuesta del Proyecto PDF")
