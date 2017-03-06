@@ -1,4 +1,4 @@
-# Proyecto CKeditor creación del plugin msliderJquery para el Proyecto CMS al estilo de Wix.com  #
+# CKeditor creación del plugin msliderJquery para el Proyecto CMS al estilo de Wix.com  #
 
       Este Plugins de **CKeditor** **msliderJquery**,  creado para el CMS al estilo wix.com, fue basado en el Plugins de *www.masterslider.com*
 
