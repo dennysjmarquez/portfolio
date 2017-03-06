@@ -17,8 +17,6 @@
 
 ![](https://raw.githubusercontent.com/dennysjmarquez/portfolio/master/2016/proyecto-CKeditor-actualizacion-Plugin-simplebutton/Print%20screen%204%2C%20Proyecto%20CKeditor%20actualizaci%C3%B3n%20Plugin%20simplebutton%20para%20el%20Proyecto%20CMS%20al%20estilo%20de%20Wix.com.jpg)
 
-![](https://raw.githubusercontent.com/dennysjmarquez/portfolio/master/2016/proyecto-CKeditor-actualizacion-Plugin-simplebutton/Print%20screen%204%2C%20Proyecto%20CKeditor%20actualizaci%C3%B3n%20Plugin%20simplebutton%20para%20el%20Proyecto%20CMS%20al%20estilo%20de%20Wix.com.jpg)
-
 ![](https://raw.githubusercontent.com/dennysjmarquez/portfolio/master/2016/proyecto-CKeditor-actualizacion-Plugin-simplebutton/Print%20screen%205%2C%20Proyecto%20CKeditor%20actualizaci%C3%B3n%20Plugin%20simplebutton%20para%20el%20Proyecto%20CMS%20al%20estilo%20de%20Wix.com.jpg)
 
 ![](https://raw.githubusercontent.com/dennysjmarquez/portfolio/master/2016/proyecto-CKeditor-actualizacion-Plugin-simplebutton/Print%20screen%206%2C%20Proyecto%20CKeditor%20actualizaci%C3%B3n%20Plugin%20simplebutton%20para%20el%20Proyecto%20CMS%20al%20estilo%20de%20Wix.com.jpg)
