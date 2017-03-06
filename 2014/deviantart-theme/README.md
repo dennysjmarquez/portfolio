@@ -1,4 +1,4 @@
-# Proyecto Theme para Wordpress parecido al fabuloso deviantART #
+# Theme para Wordpress parecido al fabuloso deviantART #
 
       Este proyecto es un **theme** hecho para  **Wordpress** parecido a ***Deviantart*** en la forma que muestra las fotos y los artículos, tiene incluido la función de offset súper útil a la hora de agregar una página a favoritos del browser esto por la opción de navegación infinita que posee  el theme, tiene una barra parecida al adobe Acrobat Reader PDF, que facilita cuando carga un bloque de imágenes con el scroll infinito se puede ir de bloque en bloque ósea pagina 1, pagina 2 etc., al igual que se puede hacer colocando directamente el número de la página si ya fue cargada va a la página solicitada y la muestra, la barra también muestra la cantidad de fotos cargadas en la página que está activa en el viewerport.
 
