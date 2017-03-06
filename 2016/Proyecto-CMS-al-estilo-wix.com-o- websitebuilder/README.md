@@ -1,4 +1,4 @@
-# Proyecto CMS al estilo wix.com o  websitebuilder.com #
+# CMS al estilo wix.com o  websitebuilder.com #
 
             Este Proyecto fue una actualización al **CMS**  “**Simple CMS**“ de **phpjabbers** y fue  basada en algunas características de wix.com y websitebuilder.com, tales como sesiones de contenido siendo capaces de ser editadas con **CKeditor** de forma inline mucho más fácil y con multitud de **Plugins** a elegir, y por los mementos con un modelo de themes de página construidas a medida.
 
