@@ -1,4 +1,4 @@
-# Proyecto CKeditor creacion Plugin horizontalrule2 style #
+# CKeditor creacion Plugin horizontalrule2 style #
 
 Plugin para insertar líneas horizontales con 18 Estilos súper Cool
       
