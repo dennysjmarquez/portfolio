@@ -1,4 +1,4 @@
-#                                   Mis saludos, Bienvenido(a)(s)
+#                                Mis saludos, Bienvenido(a)(s)
 
                                                                <img src="https://dennysjmarquez.github.io/portfolio/den2foto.jpg"/>
 
