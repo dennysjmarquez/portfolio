@@ -3,7 +3,7 @@
 ----------
 **Descripcion**: 
 	
-      **1.**  Construido con el script de Spirate, con el fin de que manejar foros al estilo de Taringa.net mí sito, con el objetivo de generar más tráfico de visitantes y vender mis servicios clonando los POST más importantes de Taringa.net
+      **1.**  Construido con el script de Spirate, teniendo así la posibilidad de tener foros al estilo de Taringa.net , con el objetivo de generar más tráfico de visitantes y vender mis servicios clonando los POST más importantes de Taringa.net
 
       **2.** Cree un programita en Visual Basic 6, para que sacara masivamente información de taringa.net en este caso solo los POST  de la categoría descargas, volcando esa información en carpetas en el disco duro para después crear con otro programita que iba leyendo la información de los archivos volcados en el disco duro y creando archivos .sql para luego ser insertados en Db Spirate **:)**
 
