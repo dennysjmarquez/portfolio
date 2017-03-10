@@ -4,7 +4,7 @@
 
       Este theme tiene tres formas de ver los artículos y las fotos al igual que dos formas de paginación infinita y normal, posee slideshow.
       
-      He utilizado la librería phpExifRW, para leer la información de la cámara usada para tomar las fotos por ejemplo: foco, lentes, y todas esas características lo hace solo una vez y es cuando se sube la foto al artículo o post y almacena la información sacada de la foto en la DB de WordPress para no hacer más uso de esta librería  para poder presentar la información de las fotos parecido como lo hace deviantart, presenta la leyenda de la foto cuando se va al post o articulo.
+      He utilizado la librería phpExifRW, para sacar los datos de la cámara usada para tomar las fotos por ejemplo: foco, lentes, y todas esas características lo hace solo una vez y es cuando se sube la foto al artículo o post y almacena la información sacada de la foto en la DB de WordPress para no hacer más uso de esta librería  para poder presentar la información de las fotos parecido como lo hace deviantart, presenta la leyenda de la foto cuando se va al post o articulo.
       
       Las categorías son presentadas al estilo que lo hace  deviantart si se selecciona una categoría padre muestra la categoría padre y el primer nivel de los hijos las demás categorías desaparecen y aparece un link nuevo que da la posibilidad de mostrar todas las categorías anteriores todo esto manipulando la información de la DB de WordPress objetos $wpdb (DB), $term y funciones get_category_by_slug, get_term.
 
