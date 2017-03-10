@@ -10,7 +10,7 @@
       
       Una de las características más emblemáticas es la posibilidad de ir atrás y adelante en el browser sin que se pierda lo ya cargado en la navegación infinita teniendo así la posibilidad de seguir cargando nuevas páginas, en la navegación infinita al igual que lo hace Deviantart, tiene zoon las fotos , las páginas de los comentarios se cargan solo una vez, cuando se hace click en alguna página de los comentarios por ejemplo pag10 si ya la ha cargado simplemente muestra su contenido sin volver hacer petición al servidor o a la DB esto es muy importante para el ancho debanda al igual que la navegación infinita no la vuelve a cargar si se va a un link de contenido y se regresa.
       
-      En este Theme use como bases del theme BigFoo de THBThemes que es un theme para poder arrancar desde una plantilla acorde a este proyecto me refiero a los loop formats de los post (image – text – video - etc) y para poder ahórrame un poco de trabajo ;)
+      En este Theme use como bases del Theme BigFoo de THBThemes que es un theme free, para poder arrancar desde una plantilla acorde a este proyecto me refiero a los loop formats de los post (image – text – video - etc) y para poder ahórrame un poquito de trabajo ;)
 
 
 
