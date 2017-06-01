@@ -2,7 +2,7 @@
 
 Project description:
       
-Si quieres saber cuál es mi Proyecto actual
+Si quieres que sea yo el que lleve a cabo tu Proyecto
 # 
  
   **>>> COMUNICATE CONMIGO  <<<**
