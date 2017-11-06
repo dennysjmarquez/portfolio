@@ -6,8 +6,7 @@
 
             Hay muchas mejoras pensadas y características nuevas que se pueden implementar en este **CMS**.
 
-  **>>>**  [**Codigo fuente aqui**](https://github.com/dennysjmarquez/SOURCE-CODE-cms-al-estilo-de-wix.com)  **<<<**  
-
+  
 ----------
 
 > # Diseño #1 #
