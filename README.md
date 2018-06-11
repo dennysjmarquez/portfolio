@@ -3,7 +3,7 @@
                                                                <img src="https://raw.githubusercontent.com/dennysjmarquez/portfolio/gh-pages/den4foto.JPG"/>
 
 
-## Disponible para contratación Freelance o contrato laboral / contactarme directamente a dennysjmarquez@gmail.com
+## Disponible para contratación remota o contrato laboral / contactarme directamente a dennysjmarquez@gmail.com
 
  * [Cover Letter](https://dennysjmarquez.github.io/portfolio/Cover-Letter.pdf)
  * [Resume](https://dennysjmarquez.github.io/portfolio/Resume.pdf)
