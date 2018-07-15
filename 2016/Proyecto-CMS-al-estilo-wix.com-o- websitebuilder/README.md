@@ -2,7 +2,7 @@
 
             Este Proyecto fue una actualización al **CMS**  “**Simple CMS**“ de **phpjabbers** y fue  basada en algunas características de wix.com y websitebuilder.com, tales como sesiones de contenido siendo capaces de ser editadas con **CKeditor** de forma inline mucho más fácil y con multitud de **Plugins** a elegir, y por los momentos con un modelo de themes de página construidas a medida.
 
-            Aun no es soportado el método **Drag drop** de las sesiones estas tiene que ser agregadas manualmente en  el código de la página con su alto, ancho, y posición por el Fontend creador del theme de la página,  el método Drag drop  de las sesiones y la posibilidad de cambiar su alto, ancho, y posición con el mouse es una característica a desarrollar más adelante, el sistema es 100% más rápido que wix.com
+            Aun no es soportado el método **Drag drop** de las sesiones como lo hace wix.com  estas tiene que ser agregadas manualmente en  el código fuente de la página especificando el alto, ancho y posición de la sesion, el método Drag drop  de las sesiones y la posibilidad de cambiar su alto, ancho y posición con el mouse es una característica a desarrollar más adelante, el sistema es 100% más rápido que wix.com
 
             Hay muchas mejoras pensadas y características nuevas que se pueden implementar en este **CMS**.
   
