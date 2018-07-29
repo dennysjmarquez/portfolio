@@ -1,4 +1,4 @@
-# Mi sitio web del servicio técnico www.tec.web44.net #
+# Mi sitio web de servicio técnico www.tec.web44.net #
 
 ----------
 **Descripcion**: 
