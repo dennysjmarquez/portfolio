@@ -5,6 +5,16 @@
             Aun no es soportado el método **Drag drop** de las sesiones como lo hace wix.com  estas tiene que ser agregadas manualmente en  el código fuente de la página especificando el alto, ancho y posición de la sesion, el método Drag drop  de las sesiones y la posibilidad de cambiar su alto, ancho y posición con el mouse es una característica a desarrollar más adelante, el sistema es 100% más rápido que wix.com
 
             Hay muchas mejoras pensadas y características nuevas que se pueden implementar en este **CMS**.
+            
+            Tecnologías usadas:
+            
+            __Frontend__
+            
+            HTML5 | CSS3 | JavaScript | JQuery | JQuery UI | CKEditor | iframeResizer.js https://github.com/davidjbradshaw/iframe-resizer | jquery.mCustomScrollbar.js http://manos.malihu.gr/jquery-custom-content-scroller | jquery.resize.js https://github.com/sdecima/javascript-detect-element-resize | jquery.validate.min.js | position-calculator.min.js https://github.com/tlindig/position-calculator | ace editor 1.2.5 https://ace.c9.io | masterslider.min.js 2.50.0 http://averta.net/
+            
+            __Backend__
+            
+            PHP 5.6.25 | MySQL 5.6.17 | kcfinder 3.12 | 
   
 ----------
 
