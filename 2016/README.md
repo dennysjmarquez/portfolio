@@ -6,7 +6,7 @@
 
             Hay muchas mejoras pensadas y características nuevas que se pueden implementar en este **CMS**.
 
-----------            
+       
             
             Tecnologías usadas:
             
@@ -16,7 +16,7 @@
             
             __Backend__
             
-            PHP 5.6.25 | MySQL 5.6.17 | kcfinder 3.12 | 
+            PHP 5.6.25 | MySQL 5.6.17 | kcfinder 3.12
   
 ----------
 
