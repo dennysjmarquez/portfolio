@@ -116,8 +116,3 @@
 
 ### END - CMS al estilo wix.com o  websitebuilder.com
 ---
-
-
-<style>
-body{background:blue;}
-</style>
