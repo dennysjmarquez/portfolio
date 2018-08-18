@@ -1,21 +1,33 @@
 # CMS al estilo wix.com o  websitebuilder.com #
 
-            Este Proyecto fue una actualización al **CMS**  “**Simple CMS**“ de **phpjabbers** y fue  basada en algunas características de wix.com y websitebuilder.com, tales como sesiones de contenido siendo capaces de ser editadas con **CKeditor** de forma inline mucho más fácil y con multitud de **Plugins** a elegir, y por los momentos con un modelo de themes de página construidas a medida.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Este Proyecto fue una actualización al **CMS**  “**Simple CMS**“ de **phpjabbers** y fue  basada en algunas características de wix.com y websitebuilder.com, tales como sesiones de contenido siendo capaces de ser editadas con **CKeditor** de forma inline mucho más fácil y con multitud de **Plugins** a elegir, y por los momentos con un modelo de themes de página construidas a medida.
 
-            Aun no es soportado el método **Drag drop** de las sesiones como lo hace wix.com  estas tiene que ser agregadas manualmente en  el código fuente de la página especificando el alto, ancho y posición de la sesion, el método Drag drop  de las sesiones y la posibilidad de cambiar su alto, ancho y posición con el mouse es una característica a desarrollar más adelante, el sistema es 100% más rápido que wix.com
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aun no es soportado el método **Drag drop** de las sesiones como lo hace wix.com  estas tiene que ser agregadas manualmente en  el código fuente de la página especificando el alto, ancho y posición de la sesion, el método Drag drop  de las sesiones y la posibilidad de cambiar su alto, ancho y posición con el mouse es una característica a desarrollar más adelante, el sistema es 100% más rápido que wix.com
 
-            Hay muchas mejoras pensadas y características nuevas que se pueden implementar en este **CMS**
-            
-            Tecnologías usadas:
-            
-            __Frontend__
-            
-            HTML5 | CSS3 | JavaScript | JQuery | JQuery UI | CKEditor | iframeResizer.js https://github.com/davidjbradshaw/iframe-resizer | jquery.mCustomScrollbar.js http://manos.malihu.gr/jquery-custom-content-scroller | jquery.resize.js https://github.com/sdecima/javascript-detect-element-resize | jquery.validate.min.js | position-calculator.min.js https://github.com/tlindig/position-calculator | ace editor 1.2.5 https://ace.c9.io | masterslider.min.js 2.50.0 http://averta.net/
-            
-            __Backend__
-            
-            PHP 5.6.25 | MySQL 5.6.17 | kcfinder 3.12
-  
+# Tecnologías usadas
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* JQuery
+* JQuery UI
+* CKEditor
+* iframeResizer.js https://github.com/davidjbradshaw/iframe-resizer 
+* jquery.mCustomScrollbar.js http://manos.malihu.gr/jquery-custom-content-scroller
+* jquery.resize.js https://github.com/sdecima/javascript-detect-element-resize
+* jquery.validate.min.js
+* position-calculator.min.js https://github.com/tlindig/position-calculator
+* ace editor 1.2.5 https://ace.c9.io
+* masterslider.min.js 2.50.0 http://averta.net/
+
+### Backend
+
+* PHP 5.6.25
+* MySQL 5.6.17
+* kcfinder 3.12
+
 ----------
 
 > # Diseño #1 #
@@ -27,9 +39,9 @@
 
 
 ![](https://raw.githubusercontent.com/dennysjmarquez/portfolio/master/2016/Proyecto-CMS-al-estilo-wix.com-o-%20websitebuilder/proyecto-cms-documento3.jpg)
- 
- 
- 
+ 
+ 
+ 
 
 ----------
 
@@ -42,9 +54,9 @@
 
 
 ![](https://raw.githubusercontent.com/dennysjmarquez/portfolio/master/2016/Proyecto-CMS-al-estilo-wix.com-o-%20websitebuilder/Disen%CC%83o_ajustes2.png)
- 
- 
- 
+ 
+ 
+ 
 ## *Método para seleccionar los Plugins de CKeditor que aparecerán en las sesiones o sesión* ##
 
 **Ejemplo:** *Si es una sesión de imagen solo se dejara el Plugins de imagen*
