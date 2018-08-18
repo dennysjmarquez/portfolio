@@ -4,9 +4,7 @@
 
             Aun no es soportado el método **Drag drop** de las sesiones como lo hace wix.com  estas tiene que ser agregadas manualmente en  el código fuente de la página especificando el alto, ancho y posición de la sesion, el método Drag drop  de las sesiones y la posibilidad de cambiar su alto, ancho y posición con el mouse es una característica a desarrollar más adelante, el sistema es 100% más rápido que wix.com
 
-            Hay muchas mejoras pensadas y características nuevas que se pueden implementar en este **CMS**.
-
-       
+            Hay muchas mejoras pensadas y características nuevas que se pueden implementar en este **CMS**
             
             Tecnologías usadas:
             
