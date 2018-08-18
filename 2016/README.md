@@ -118,3 +118,6 @@
 ---
 
 
+<style>
+body{background:blue;}
+</style>
