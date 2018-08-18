@@ -27,6 +27,7 @@
 * PHP 5.6.25
 * MySQL 5.6.17
 * kcfinder 3.12
+* PHP Simple HTML DOM Parser https://sourceforge.net/projects/simplehtmldom/
 
 ----------
 
