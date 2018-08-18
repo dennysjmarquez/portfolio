@@ -1,4 +1,4 @@
-# Proyecto scorpioncms Blog CMS al estilo WordPress, Uneweb proyecto final diplomado programación web#
+# Proyecto scorpioncms Blog CMS al estilo WordPress, Uneweb proyecto final diplomado programación web
 
 
       Este proyecto fue mi primer **CMS** y lo realice con la intención de que pudiera manejar themes al estilo de **Wordpress** y con casi la misma estructura de carpetas esto para que me diera la posibilidad de adaptar cualquier theme bien sea de Joomla Wordpress o de cualquiera con un simple guardar como del browser bastaría para comenzar su adaptación a este cms.
