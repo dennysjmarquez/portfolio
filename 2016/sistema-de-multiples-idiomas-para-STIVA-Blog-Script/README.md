@@ -8,9 +8,7 @@
 
           **B.**  	Detecta el idioma del browser del  usuario que visitan el sitio seleccionando así el idioma para hacer las consultas a la DB si el browser del visitante esta es en chino muestra el POST y toda la interface en chino y si el browser del visitante es en francés muestra la versión de francés del POSY y toda la interface y así sucesivamente con los demás idiomas.
 
-  **>>>**  [**Codigo fuente aqui**](https://github.com/dennysjmarquez/SOURCE-CODE-sistema-de-multiples-idiomas-para-STIVA-Blog-Script)  **<<<**  
-
-
+  
 ----------
 
 ![](https://raw.githubusercontent.com/dennysjmarquez/portfolio/master/2016/sistema-de-multiples-idiomas-para-STIVA-Blog-Script/Print%20screen%201%2C%20Proyecto%20creaci%C3%B3n%20de%20un%20sistema%20de%20m%C3%BAltiple%20idiomas%20para%20%E2%80%9CSTIVA%20Blog%20Script%E2%80%9D.jpg)
