@@ -1,6 +1,6 @@
 # CKeditor actualización del Plugin simplebutton #
 
-**Las actualizaciones que les hice a este Plugins fueron:
+**Las actualizaciones que les hice a este Plugins fueron:**
 
 
       La posibilidad de subir una imagen al servidor con filebrowser y ckfinder y usar la URL en el link, o usar la URL de una ya cargada.
