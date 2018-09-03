@@ -21,9 +21,3 @@
 
 ## Proyectos del 2017
 * [https://github.com/dennysjmarquez/portfolio/tree/master/2017/proyecto-CKeditor-creacion-Plugin-Master-Slider-JQuery-para-el-Proyecto-CMS-al-estilo-de-wix.com](https://github.com/dennysjmarquez/portfolio/tree/master/2017/proyecto-CKeditor-creacion-Plugin-Master-Slider-JQuery-para-el-Proyecto-CMS-al-estilo-de-wix.com)
-* [https://github.com/dennysjmarquez/portfolio/tree/master/2017/En-construccion-un-Nuevo-Proyecto](https://github.com/dennysjmarquez/portfolio/tree/master/2017/En-construccion-un-Nuevo-Proyecto)
-
-
-
-
-
