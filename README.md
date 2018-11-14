@@ -1,6 +1,6 @@
 #                             Mis saludos, Bienvenido(a)(s)
 
-                                                               <img src="https://raw.githubusercontent.com/dennysjmarquez/portfolio/gh-pages/den4foto.JPG"/>
+                                                               <img src="https://raw.githubusercontent.com/dennysjmarquez/portfolio/gh-pages/dennys8.jog"/>
 
 
 ## Disponible para contratación remota o contrato laboral / contactarme directamente a dennysjmarquez@gmail.com
