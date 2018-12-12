@@ -6,7 +6,7 @@
 ## Disponible para contratación remota o contrato laboral / contactarme directamente a dennysjmarquez@gmail.com
 
  * [Cover Letter](https://dennysjmarquez.github.io/portfolio/cover-letter.pdf)
- * [Resume](https://dennysjmarquez.github.io/portfolio/resume.pdf)
+ * [Resume](https://dennysjmarquez.github.io/portfolio/CV%20Dennys%20Jose%20Marquez%20Reyes%20-%20Desarrollador%20web.pdf)
  * [LinkedIn](https://www.linkedin.com/in/dennysjmarquez/)
  * [Twitter](https://twitter.com/infocodes)
 
