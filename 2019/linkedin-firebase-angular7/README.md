@@ -1,4 +1,3 @@
-
 ## App que simula el comportamiento del famoso Linkedin Db con Firebase
 
 Este proyecto lo realice para presentar una prueba a una vacante de Angular 
