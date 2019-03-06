@@ -1,4 +1,10 @@
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3.
+
+App que simula el comportamiento del famoso Linkedin Db con Firebase
+
+Este proyecto lo realice para presentar una prueba a una vacante de Angular 
+------------------------------
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3 and Firebase.
 
 ## Development server
 
