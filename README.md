@@ -9,6 +9,7 @@
  * [Resume](https://dennysjmarquez.github.io/portfolio/CV-Dennys-Jose-Marquez-Reyes-Desarrollador-web.pdf)
  * [LinkedIn](https://www.linkedin.com/in/dennysjmarquez/)
  * [Twitter](https://twitter.com/infocodes)
+ * [youtube](https://www.youtube.com/channel/UCwRM751r6YjHpWJA-xsRr2A)
 
 ## Proyectos del 2011
 * [https://github.com/dennysjmarquez/portfolio/tree/master/2011](https://github.com/dennysjmarquez/portfolio/tree/master/2011)
