@@ -11,27 +11,27 @@ npm install dile-date-without-calendar
 ```
 ## Usage
 
-###### Default
+**Default**
 
 ```
 <dile-date-without-calendar 
     value="1977-11-15"></dile-date-without-calendar>
 ```
-###### Disabled
+**Disabled**
 ```
 <dile-date-without-calendar 
     value="1977-11-15" 
     disabled></dile-date-without-calendar>
 ```
 
-###### Readonly
+**Readonly**
 ```
 <dile-date-without-calendar 
     value="1977-11-15" 
     readonly></dile-date-without-calendar>
 ```
 
-###### Show months names in Popup
+**Show months names in Popup**
 
 ```
 <dile-date-without-calendar 
@@ -39,7 +39,7 @@ npm install dile-date-without-calendar
     options='{"monthsNames":true}'></dile-date-without-calendar>
 ```
 
-###### Different language
+**Different language**
 
 ```
 <dile-date-without-calendar 
@@ -55,7 +55,7 @@ npm install dile-date-without-calendar
         }
     }'></dile-date-without-calendar>
 ```
-###### Customized
+**Customized**
 
 ```
 <style>
@@ -112,9 +112,9 @@ npm install dile-date-without-calendar
   ></dile-date-without-calendar>
 ```
 
-###### Events, Change and Error
+**Events, Change and Error**
 
-**_LitElement emits events_**
+###### **_LitElement emits events_**
 
 ```
 <dile-date-without-calendar 
@@ -133,7 +133,7 @@ npm install dile-date-without-calendar
     }}></dile-date-without-calendar>
 ```
 
-**window cash events**
+###### **_window cash events_**
 
 ```
 
