@@ -1,6 +1,6 @@
 #                             Mis saludos, Bienvenido(a)(s)
 
-                                                               <img src="https://raw.githubusercontent.com/dennysjmarquez/portfolio/gh-pages/300-CV-Dennys-Jose-Marquez-Reyes-Desarrollador-web_P%C3%A1gina_1_Imagen_0001.png"/>
+                                                               <img src="https://raw.githubusercontent.com/dennysjmarquez/portfolio/gh-pages/dennys2.png"/>
 
 
 ## Disponible para contratación remota o contrato laboral / contactarme directamente a dennysjmarquez@gmail.com
