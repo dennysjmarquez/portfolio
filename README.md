@@ -5,7 +5,7 @@
 
 ## Disponible para contratación remota o contrato laboral / contactarme directamente a dennysjmarquez@gmail.com
 
-## Mi portafolio oficial en: https://dennysjmarquez.herokuapp.com/
+## Mi portafolio oficial en: https://dennysjmarquez.dev/
 
  
 
