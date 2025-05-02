@@ -10,7 +10,7 @@
  
 
  * [Cover Letter](https://dennysjmarquez.github.io/portfolio/cover-letter.pdf)
- * [Resume](https://dennysjmarquez.github.io/portfolio/CV-Dennys-Jose-Marquez-Reyes-Desarrollador-web.pdf)
+ * [Resume](https://dennysjmarquez.github.io/portfolio/CV-Dennys-Jose-Marquez-Reyes-Desarrollador-web-2025.pdf)
  * [LinkedIn](https://www.linkedin.com/in/dennysjmarquez/)
  * [Twitter](https://twitter.com/infocodes)
  * [youtube](https://www.youtube.com/channel/UCwRM751r6YjHpWJA-xsRr2A)
